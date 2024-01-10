@@ -6,7 +6,7 @@ Based on [haxx](https://github.com/asdfugil/haxx)
 
 ## Usage
 
-Note: existing jailbreak + [untethred Taurine app](https://github.com/AppInstalleriOSGH/Taurine)
+Requires: existing jailbreak + [untethred Taurine app](https://github.com/AppInstalleriOSGH/Taurine)
 
 ### Get up and running
 This method works on 14.0-14.6.
