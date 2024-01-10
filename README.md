@@ -1,5 +1,7 @@
 # Taurine Haxx
 
+⚠️ Warning ⚠️ I am not liable if you get bootlooped, if you bootloop do not blame me. 
+
 Taurine Untethered
 
 Based on [haxx](https://github.com/asdfugil/haxx)
