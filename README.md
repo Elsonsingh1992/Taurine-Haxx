@@ -6,10 +6,9 @@ Based on [haxx](https://github.com/asdfugil/haxx)
 
 ## Usage
 
-Requires: existing jailbreak
+Requires: Existing Taurine jailbreak and iOS 14.0 - 14.6
 
 ### Get up and running
-This method works on 14.0-14.6.
 
 1. Install [Taurine Untethered](https://github.com/AppInstalleriOSGH/Taurine/releases/) with TrollStore
 2. On the device, Copy `/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd` to `/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd.back`
