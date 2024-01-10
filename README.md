@@ -9,7 +9,7 @@ Based on [haxx](https://github.com/asdfugil/haxx)
 Note: existing jailbreak + [untethred Taurine app](https://github.com/AppInstalleriOSGH/Taurine)
 
 ### Get up and running
-This method works on 14.0-14.6. 14.7 (14.7b1)-14.8.1 requires launchd replacement (see `launchd.c`), which is less safe.
+This method works on 14.0-14.6.
 
 1. On the device, Copy `/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd` to `/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd.back`
 2. Then replace `/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd` with `/usr/bin/fileproviderctl`
